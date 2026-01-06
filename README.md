@@ -5,7 +5,7 @@ Et registreringssystem utviklet for skrapforhandlere.
 ## Om prosjektet
 Applikasjonen lar brukeren registrere, hente, oppdatere,slette informasjon om skrapforhandlere, og behodningen deres. Data lagres i en SQL-database og hentes ut via JDBC.
 
-## Teknologier
+## Kode
 - Java (objektorientert)
 - SQL / MySQL
 - JDBC for databasetilkobling
